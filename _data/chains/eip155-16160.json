@@ -1,0 +1,24 @@
+{
+  "name": “Xchain Mainnet",
+  "chain": “Xchain”,
+  "icon": “xchain”,
+  "rpc": ["https://mainnet-rpc.xscan.network"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": “Xchain”,
+    "symbol": “XCHAIN”,
+    "decimals": 18
+  },
+  "infoURL": "https://xchain.cx”,
+  "shortName": “Xchain”,
+  "chainId": 16160,
+  "networkId": 16160,
+  "explorers": [
+    {
+      "name": “Xchain Explorer",
+      "url": “https://xscan.network",
+      "standard": "EIP3091"
+    }
+  ]
+}
+
